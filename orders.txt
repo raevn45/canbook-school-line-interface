@@ -1,0 +1,5 @@
+preshitashinde ordered 2 x Sandwich = AED 40.00
+preshitashinde ordered 1 x Juice = AED 15.00
+2026-10-17 18:06:37 | Student: preshitashinde | Item: Sandwich | Quantity: 1 | Total: 20.00
+2026-10-17 18:06:37 | Student: preshitashinde | Item: Burger | Quantity: 1 | Total: 40.00
+remya mam ordered 2 x Sandwich = AED 40.00
